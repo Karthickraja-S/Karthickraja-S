@@ -1,6 +1,4 @@
-## Hi there 👋😃
-# I am Karthick S , Currently working at Zoho. <br>Aspiring Java Developer and interested in learning new stuff <br>and bringing/enhancing product functionalities.<br><br>
-
+## Hi there, I'm Karthick S! 👋😃
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tomandjerry.offl__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthicks1412) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23004209) 
